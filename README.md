@@ -1,3 +1,3 @@
 # bruh
 
-hehehehehe
+This is my first contribution.
